@@ -2,6 +2,9 @@
     margin: 0;
 }
 
+main, footer {
+    margin: 20px 5px;
+}
 #intestazione {
     background-color: cornflowerblue;
     width: 100%;
