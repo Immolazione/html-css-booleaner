@@ -44,6 +44,19 @@ section {
     background-color: #ff0
 }
 
+thead {
+    background-color: cornflowerblue;
+}
+
+.cell33 {
+    width: 25%;
+}
+
+.cell66 {
+    background-color: cornflowerblue;
+    width: 50%;
+}
+
 #monitor {
     background-image: url(../img/monitor.jpg);
     width: 310px;
