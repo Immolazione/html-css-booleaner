@@ -1,3 +1,6 @@
+* {
+    margin: 0;
+}
 
 #intestazione {
     background-color: cornflowerblue;
@@ -10,8 +13,4 @@
 #logo  {
     height: 45%;
     margin-top: 3%;
-}
-
-figure {
-    margin: 0;
 }
