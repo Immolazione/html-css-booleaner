@@ -17,3 +17,7 @@ main, footer {
     height: 45%;
     margin-top: 3%;
 }
+
+#titolo {
+    font-size: 72px;
+}
