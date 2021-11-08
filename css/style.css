@@ -44,12 +44,19 @@ section {
     background-color: #ff0
 }
 
-table {
+ul {
+    padding-inline-start: 1%;
+}
+
+table {    
     border-collapse: collapse;
 }
 
 thead {
     background-color: cornflowerblue;
+    text-align: left;
+    font-style: normal;
+    color: #fff;
 }
 
 .cell33 {
