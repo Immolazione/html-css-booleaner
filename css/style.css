@@ -44,6 +44,10 @@ section {
     background-color: #ff0
 }
 
+table {
+    border-collapse: collapse;
+}
+
 thead {
     background-color: cornflowerblue;
 }
@@ -53,8 +57,11 @@ thead {
 }
 
 .cell66 {
-    background-color: cornflowerblue;
     width: 50%;
+}
+
+.light-blue {
+    background-color: lightblue;
 }
 
 #monitor {
